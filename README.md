@@ -22,11 +22,11 @@ PDF2
   >*Momento de vida. etc..  
 
 PDF3  
-  >Detalle del producto o servicio a comercializar
-  >*Sentidos
-  >*Maslow
-  >*Niveles de aceptación de tu producto o servicio (uno más niveles de aceptación).
-  >*"Pecados capitales" (su adaptación a tu producto o servicio)  
+  >Detalle del producto o servicio a comercializar  
+  >*Sentidos  
+  >*Maslow  
+  >*Niveles de aceptación de tu producto o servicio (uno más niveles de aceptación).  
+  >*"Pecados capitales" (su adaptación a tu producto o servicio)    
 
 PDF4, Excel, Mp4 de plan de negocios.  
   >*Presentaran en un documento PDF el resultado del plan de negocios.  
