@@ -50,3 +50,6 @@ PDF5 , ppt (opcional), Excel, MP4
   >• Entrega de PDF, PPT(opcional), Excel, MP4  
   >En esta parte igualmente se definirán los participantes, sus roles dentro del equipo, o en su defecto la razón para presentar individualmente el proyecto.    
   
+
+# Pagina Web de la aplicacion y la empresa.  
+  https://kensukeaida00.wixsite.com/website
